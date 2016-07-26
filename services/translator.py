@@ -2,6 +2,7 @@ class UndefinedTranslation(Exception): pass
 
 
 trls = {
+    'LANGS':['en', 'lt'],
     'hey':{'en':'hello', 'lt':'labas'}
 }
 
